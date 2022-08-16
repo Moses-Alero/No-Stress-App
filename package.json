@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Moses-Alero/No-Stress.git"
+    "url": "git+https://github.com/Moses-Alero/No-Stress-App.git"
   },
   "author": "Team Quru",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Moses-Alero/No-Stress/issues"
+    "url": "https://github.com/Moses-Alero/No-Stress-App/issues"
   },
-  "homepage": "https://github.com/Moses-Alero/No-Stress#readme",
+  "homepage": "https://github.com/Moses-Alero/No-Stress-App#readme",
   "devDependencies": {
     "jest": "^28.1.3",
     "supertest": "^6.2.4"
